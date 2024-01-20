@@ -1,0 +1,9 @@
+{
+    "name": "asus/mvs",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Mvs\\": "src/"
+        }
+    },
+    "require": {}
+}
